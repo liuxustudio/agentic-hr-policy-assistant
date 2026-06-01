@@ -95,7 +95,7 @@ python query.py
 **Input:**
 
 ```
-Can I work from home?
+Kann ich im Homeoffice arbeiten?
 ```
 
 
