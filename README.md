@@ -99,5 +99,3 @@ Kann ich im Homeoffice arbeiten?
 ```
 
 
-GitHub: https://github.com/liuxustudio
-LinkedIn: [www.linkedin.com/in/liuxu-lu](http://www.linkedin.com/in/liuxu-lu)
