@@ -5,7 +5,7 @@ The system routes user queries through specialized agents (HR, Policy, Complianc
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project simulates a real-world enterprise AI assistant that can answer HR-related questions such as:
 
@@ -17,7 +17,7 @@ This project simulates a real-world enterprise AI assistant that can answer HR-r
 
 
 ---
-## 🏗️ Architecture
+##  Architecture
 
 * **LlamaIndex** → document ingestion & retrieval
 * **Ollama (Mistral)** → local LLM inference
@@ -27,7 +27,7 @@ This project simulates a real-world enterprise AI assistant that can answer HR-r
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 * Python 3.10+
 * LlamaIndex
@@ -39,7 +39,7 @@ This project simulates a real-world enterprise AI assistant that can answer HR-r
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 hr-policy-agent/
@@ -62,7 +62,7 @@ hr-policy-agent/
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### 1. Install dependencies
 
@@ -90,7 +90,7 @@ python query.py
 
 ---
 
-## 💡 Example
+##  Example
 
 **Input:**
 
