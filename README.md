@@ -19,11 +19,11 @@ This project simulates a real-world enterprise AI assistant that can answer HR-r
 ---
 ##  Architecture
 
-* **LlamaIndex** → document ingestion & retrieval
-* **Ollama (Mistral)** → local LLM inference
-* **HuggingFace Embeddings** → semantic search
-* **Vector Store Index** → document retrieval
-* **Custom Agents** → routing & domain specialization
+* **LlamaIndex** : document ingestion & retrieval
+* **Ollama (Mistral)** : local LLM inference
+* **HuggingFace Embeddings** : semantic search
+* **Vector Store Index** : document retrieval
+* **Custom Agents** : routing & domain specialization
 
 ---
 
