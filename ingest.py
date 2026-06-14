@@ -22,7 +22,7 @@ text_splitter = SentenceSplitter(
 Settings.text_splitter = text_splitter
 
 # =========================
-# 3. Embedding model（本地）
+
 # =========================
 embed_model = HuggingFaceEmbedding(
     model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
